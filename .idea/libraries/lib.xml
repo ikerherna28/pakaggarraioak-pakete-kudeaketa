@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/garraioak/PAKAGgarraioak/lib/javax-inject.jar!/" />
+      <root url="jar://$PROJECT_DIR$/garraioak/PAKAGgarraioak/lib/javax.activation-1.1.0.v201105071233.jar!/" />
+      <root url="jar://$PROJECT_DIR$/garraioak/PAKAGgarraioak/lib/javax.faces-api-2.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/garraioak/PAKAGgarraioak/lib/javax.ejb.jar!/" />
+      <root url="jar://$PROJECT_DIR$/garraioak/PAKAGgarraioak/lib/javax.mail.jar!/" />
+      <root url="jar://$PROJECT_DIR$/garraioak/PAKAGgarraioak/lib/mail.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
