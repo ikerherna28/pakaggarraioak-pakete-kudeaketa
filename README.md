@@ -38,7 +38,7 @@ Docker Compose sarea app-arekin igotzeak, bakarrik erabili ordez, ziurtatzen du 
 - MySQL - `33307:3306`
 - PHPMYADMIN - `8080:80`
 - PHP - `9003:9003`
-- Mailhog - `25:25` (PORTUA PHPren BARRUAN)
+  - Mailhog - `25:25` (PORTUA PHPren BARRUAN)
 
 
 Bi kontenedore gehigarri daude, Composer, NPM komandoak kontrolatzen dituztenak, plataforma horiek tokiko ekipoan instalatuta eduki behar izan gabe. Proiektua hau exekutatu edo altsatzeko erabili proiektuaren erroko komandoen adibide hauek, beste proiektu baterako (gure proiektua adibide gisa erabili ezkero) aldatu, erabilera partikularreko kasuetara egokitu daitezen.
